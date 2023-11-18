@@ -3,7 +3,7 @@ An advanced pipeline for performing RAG operations on the german BGB
 
 ### steps for running
 - pip install -r requirements.txt
-- # set your OPENAI_API_KEy
+- set your OPENAI_API_KEy
 - export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
 
 ### files
