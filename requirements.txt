@@ -1,0 +1,5 @@
+openai
+tiktoken
+langchain
+sentence-transformers
+protobuf==3.20.0
